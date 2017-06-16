@@ -1,13 +1,13 @@
 # sammwas.github.io
-##Author
+## Author
 Samson Mwangi aka schoolboy
-##project name
+## project name
 First Independent Project for Moringa Prep 4 Full Time
 
-##project description
+## project description
 A portfolio on myself.That includes my hobbies,interests and goals.
 
-##link to github pages
+## link to github pages
 sammwas.github.io
 
-##copyright 
+## copyright 
